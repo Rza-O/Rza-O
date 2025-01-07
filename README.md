@@ -40,8 +40,9 @@
 
 ###
 
+- **Projects**: On the lookout for an idea to build a proper SaaS project.
 - **Backend Development**: Node.js, Express.js, MongoDB
-- **AI**: Building the foundation in AI with zero math background.
+- **AI**: Building the foundation in AI.
 - **DSA**: Developing strong problem-solving skills.
 
 ###
