@@ -40,7 +40,9 @@
 
 ###
 
-<p align="left">I'm continuously working on improving my skills with a focus on:<br>Backend Development: Node.js, Express.js, MongoDB<br> AI: Building the foundation in AI.<br> DSA: Developing strong problem-solving skills</p>
+- **Backend Development**: Node.js, Express.js, MongoDB
+- **AI**: Building the foundation in AI with zero math background.
+- **DSA**: Developing strong problem-solving skills.
 
 ###
 
@@ -74,7 +76,9 @@
 
 ###
 
-<p align="left">Currently reading:<br>- Atomic Habits by James Clear<br>- Planning to read 12 books in 2025 on topics like entrepreneurship, web development, and philosophy.</p>
+Currently reading:
+- **Atomic Habits** by James Clear
+- Planning to read 12 books in 2025 on topics like entrepreneurship, web development, and philosophy.
 
 ###
 
