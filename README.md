@@ -40,7 +40,7 @@
 
 ###
 
-- **Projects**: On the lookout for an idea to build a proper SaaS project.
+- **Projects**: Currently working on an e-commerce project with a dashboard. Check it out [PlantNet/MoneyPlant] (https://github.com/Rza-O/plantNet-fullstack-with-dashboard-client)
 - **Backend Development**: Node.js, Express.js, MongoDB
 - **AI**: Building the foundation in AI.
 - **DSA**: Developing strong problem-solving skills.
