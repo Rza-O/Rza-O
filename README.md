@@ -40,7 +40,7 @@
 
 ###
 
-<p align="left">I'm continuously working on improving my skills with a focus on:<br>- Backend Development: Node.js, Express.js, MongoDB<br>- AI: Building the foundation in AI.<br>- DSA: Developing strong problem-solving skills</p>
+<p align="left">I'm continuously working on improving my skills with a focus on:<br>Backend Development: Node.js, Express.js, MongoDB<br> AI: Building the foundation in AI.<br> DSA: Developing strong problem-solving skills</p>
 
 ###
 
