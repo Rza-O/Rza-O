@@ -18,7 +18,7 @@
   <a href="https://www.linkedin.com/in/andshahreza/" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
   </a>
-  <a href="https://x.com/iRezaShohag" target="_blank">
+  <a href="https://x.com/andshahreza" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="52" height="40" alt="twitter logo"  />
   </a>
   <a href="https://discordapp.com/users/appoclayptor/" target="_blank">
