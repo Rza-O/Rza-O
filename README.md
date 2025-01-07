@@ -40,7 +40,7 @@
 
 ###
 
-- **Projects**: andshahreza (https://github.com/Rza-O/plantNet-fullstack-with-dashboard-client)
+- **Projects**: Currently working on this e-commerce with role dependency. [https://github.com/Rza-O/plantNet-fullstack-with-dashboard-client]
 - **Backend Development**: Diving deeper with Node.js, Express.js, MongoDB
 - **AI**: Building the foundation in AI.
 - **DSA**: Developing strong problem-solving skills.
