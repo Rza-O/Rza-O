@@ -1,5 +1,5 @@
 <div align="center">
-  <img height="200" src="https://i.ibb.co.com/BKgY5jD/banner2.png"  />
+  <img height="200" src="https://i.ibb.co.com/kgCPm2C/Black-Geometric-Marketing-Expert-Linked-In-Banner.jpg"  />
 </div>
 
 ###
