@@ -40,7 +40,7 @@
 
 ###
 
-- **Projects**: Currently working on this e-commerce with role dependency. [https://github.com/Rza-O/plantNet-fullstack-with-dashboard-client]
+- **Projects**: Proudly presenting GiBite- A Micro Earning Platform [Live Link](https://gig-bite.web.app/) 
 - **Backend Development**: Diving deeper with Node.js, Express.js, MongoDB
 - **AI**: Building the foundation in AI.
 - **DSA**: Developing strong problem-solving skills.
@@ -84,6 +84,7 @@ Currently reading:
 ###
 
 # 📊 GitHub Stats:
+[![GitHub Streak](https://streak-stats.demolab.com/?user=Rza-O)](https://git.io/streak-stats)
 ![](https://github-readme-stats.vercel.app/api?username=Rza-O&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Rza-O&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Rza-O&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
