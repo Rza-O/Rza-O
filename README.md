@@ -36,14 +36,14 @@
 
 ###
 
-<h2 align="left">📚 Ongoing Learning Journey</h2>
+<h2 align="left">🚀 Current Activities</h2>
 
 ###
 
-- **Projects**: Proudly presenting GiBite- A Micro Earning Platform [Live Link](https://gig-bite.web.app/) 
-- **Backend Development**: Diving deeper with Node.js, Express.js, MongoDB
-- **AI**: Building the foundation in AI.
-- **DSA**: Developing strong problem-solving skills.
+- **🔨 Project**: Proudly presenting GiBite- A Micro Earning Platform [Live Link](https://gig-bite.web.app/) 
+- **🌱 Learning Next.js** to enhance my full-stack development skills.
+- **🏆 Solving DSA problems** in JavaScript to strengthen problem-solving abilities.
+- **✍️ Writing** tech articles to document and share knowledge.
 
 ###
 
