@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://i.ibb.co.com/5gGCx1DJ/Screenshot-2025-02-05-020516.png"  />
+  <img src="https://i.ibb.co.com/r2ZgMMs4/Frame-1.jpg"  />
 </div>
 
 ###
