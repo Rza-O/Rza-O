@@ -36,7 +36,7 @@
 
 ###
 
-<h2 align="left">🚀 Current Activities</h2>
+<h2 align="left">📚 Current Activities</h2>
 
 ###
 
