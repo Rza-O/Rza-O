@@ -24,7 +24,7 @@
   <a href="https://discordapp.com/users/appoclayptor/" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="52" height="40" alt="discord logo"  />
   </a>
-  <a href=" https://wa.me/+8801970853705" target="_blank">
+  <a href="https://wa.me/+8801970853705" target="_blank">
     <img src="https://i.ibb.co.com/VYwPzjsp/whatsapp.png" width="52" height="40" alt="Whatsapp logo"  />
   </a>
 </div>
